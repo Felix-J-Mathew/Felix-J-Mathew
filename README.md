@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Felix-J-Mathew
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning plus 2 (India)
+- 🌱 I’m currently learning BCA (India)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email-felixjmathew2007@gmail.com,ph-9188810150
-- 😄 Pronouns: ...
+- 😄 Pronouns: He,Him
 - ⚡ Fun fact: ...
 
 <!---
