@@ -6,7 +6,7 @@ Passionate Computer Science student dedicated to building efficient, scalable ba
 
  Programming: Java, C,Python
 
- Database: MySql,PowtgreSQL
+ Database: MySql,PostgreSQL
 
  Environment:Arch Linux, Bash scripting, and terminal-based    workflows (i3/Kitty)
 
