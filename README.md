@@ -5,7 +5,9 @@ Passionate Computer Science student dedicated to building efficient, scalable ba
  Technical Skills
 
  Programming: Java, C,Python
+
  Database: MySql,PowtgreSQL
+
  Environment:Arch Linux, Bash scripting, and terminal-based    workflows (i3/Kitty)
 
 Tools: Git, GitHub
@@ -13,12 +15,15 @@ Tools: Git, GitHub
 Interests
 
 Backend Development
+
 Database Architecture 
 
 Contact Information
 
 Email: felixjmathew2007@gmail.com
+
 Phone: +91 7306624930
+
 GitHub: Felix-J-Mathew
 
 I am currently looking to collaborate on backend development projects.
