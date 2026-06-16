@@ -16,10 +16,13 @@ Backend Development
 Database Architecture 
 
 Contact Information
-Email:felixjmathew2007@gmail.com
+
+Email: felixjmathew2007@gmail.com
 Phone: +91 7306624930
-GitHub:Felix-J-Mathew
+GitHub: Felix-J-Mathew
+
 I am currently looking to collaborate on backend development projects.
+
 Pronouns: He/Him
 
 
